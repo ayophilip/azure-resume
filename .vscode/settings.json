@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "notebook.editorOptionsCustomizations": {
+
+    },
+    "editor.fontLigatures": false,
+    "editor.fontVariations": false
+}
